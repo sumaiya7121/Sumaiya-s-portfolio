@@ -1,0 +1,43 @@
+body {
+    font-family: 'Poppins',
+        sans-serif;
+
+}
+
+.sec-1 {
+
+    display: flex;
+    padding: 50px;
+    padding-left: 300px;
+
+}
+
+.half-width {
+
+    width: 50%;
+}
+
+.img1 {
+
+    width: 500px;
+    height: 550x;
+}
+
+.font1 {
+
+    font-size: 60px;
+}
+
+.color-orng {
+    color: orangered;
+}
+
+.font2 {
+    height: fit-content;
+    width: fit-content;
+    background-color: orangered;
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-weight: 600;
+}
